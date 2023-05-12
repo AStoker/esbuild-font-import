@@ -1,0 +1,9 @@
+
+$fa-font-path: '../webfonts';
+
+@font-face {
+  font-family: 'Shadows into light';
+  font-style: normal;
+  font-weight: 400;
+  src: url('#{$fa-font-path}/ShadowsIntoLight-Regular.ttf') format('truetype');
+}
